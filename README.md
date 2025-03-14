@@ -6,5 +6,4 @@ then go to downloads
 tap Questonly.zip
 and go all the way until you see an apk
 --------------------------------------
-Full tutorial 
-Not Out Yet
+Made by @LunchboxVR (by me)
